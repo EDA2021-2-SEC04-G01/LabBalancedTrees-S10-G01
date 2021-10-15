@@ -2,6 +2,12 @@
 
 Este proyecto contiene los Tipos abstractos de datos, estructuras de datos y algoritmos requeridos por el curso ISIS1225-Estructuras de Datos y Algoritmos
 
+#INTEGRANTES:
+
+DANIEL FELIPE MOLANO RODRIGUEZ - 202012695
+
+GERMÁN LEONARDO MORENO CAINABA - 202116701
+
 -Lib
 Este directorio contiene todo el código de base que se entrega para el funcionamiento del curso.  Dentro de este directorio encuentran:
     
